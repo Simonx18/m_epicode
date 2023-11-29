@@ -1,0 +1,52 @@
+.totale{
+    background-image: url(./assets/img.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  width: 500px;
+  height: 500px;
+  position: relative;
+  margin: auto;
+
+}
+.save{
+    position: absolute;
+    top: 15px;
+    right: 150px;
+    padding: 10px;
+    background-color: red;
+    border-radius: 1px 10px;
+    color: white;
+}
+.upload{
+    position: absolute;
+    bottom: 20px;
+    left: 253px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1px 10px;
+}
+
+.tre-dots{
+    position: absolute;
+    bottom: 20px;
+    left: 304px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 1px 10px;
+}
+.place{
+    position: absolute;
+    bottom: 23px;
+    left: 79px;
+    padding: 1px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 19px 19px;
+}
+.freccia{
+    position: absolute;
+    bottom: 23px;
+    left: 27px;
+    padding: 18px;
+    background-color: rgb(255, 255, 255);
+    border-radius: 19px 19px; 
+}
